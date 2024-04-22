@@ -7,9 +7,9 @@ https://github.com/matheusbattisti/curso_sass/tree/main/11_galleria
 Documentação do Sass/Scss: 
 https://sass-lang.com/
 
-Instalação global do Sass/Sacc
+Instalação global do Sass/Sacc:
 npm install -g sass
 
-Gerar automaticamente o código css (já indicando a pasta)
-Exemplo css/styles.css
+Gerar automaticamente o código css (já indicando a pasta).
+Exemplo css/styles.css:
 sass --watch scss/styles.scss:css/styles.css
