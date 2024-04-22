@@ -12,4 +12,5 @@ npm install -g sass
 
 Gerar automaticamente o código css (já indicando a pasta).
 Exemplo css/styles.css:
+
 sass --watch scss/styles.scss:css/styles.css
